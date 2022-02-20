@@ -40,8 +40,8 @@ bearkey = 'https://pastelink.net/v20Md'
 ApiiKey = 'https://pastelink.net/v20Md'
 vinkey = 'vinko'
 
-namabot = 'Yuki Bot'
-namalu = 'King Of Bear'
+namabot = '𝑄𝑢𝑒𝑒𝑛 𝐵𝑂𝑇𝑍'
+namalu = 'HFZ'
 footer = '\n©King Of Bear'
 kasihcaption = `Nih Sayang`
 
